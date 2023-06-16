@@ -1,5 +1,5 @@
 # Sencillo ejemplo del patrón MVC con PHP nativo
-Ejemplo de MVC nativo (sin framework) basado en el tutorial de [Victor Robles](https://victorroblesweb.es/2013/11/18/tutorial-mvc-en-php-nativo/)
+Ejemplo de MVC nativo (sin framework) basado en el tutorial de JHON DAIRO CRISTANCHO TRILLOE
 
 ## Configuración de la base de datos
 Es necesario la creación de una base de datos de donde se obtendrán los productos. 
